@@ -1,0 +1,6 @@
+{
+  "name": "펀펀 복싱 (FUN FUN BOXING)",
+  "description": "누구나 즐겁게 시작하는 복싱, 펀펀 복싱 공식 홈페이지",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
