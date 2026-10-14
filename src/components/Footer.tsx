@@ -124,18 +124,13 @@ export const Footer: React.FC<FooterProps> = ({
             <h4 className="font-bold text-sm text-white mb-3">바로가기</h4>
             <ul className="space-y-2">
               <li>
-                <a href="#about" className="text-neutral-400 hover:text-[#FF6B24] transition-colors">
-                  펀펀 복싱 소개
-                </a>
-              </li>
-              <li>
                 <a href="#programs" className="text-neutral-400 hover:text-[#FF6B24] transition-colors">
                   프로그램 안내
                 </a>
               </li>
               <li>
-                <a href="#pricing" className="text-neutral-400 hover:text-[#FF6B24] transition-colors">
-                  이용 요금
+                <a href="#gallery" className="text-neutral-400 hover:text-[#FF6B24] transition-colors">
+                  시설 안내
                 </a>
               </li>
               <li>

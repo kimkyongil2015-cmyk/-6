@@ -19,10 +19,7 @@ export const Header: React.FC<HeaderProps> = ({ onOpenTrial }) => {
   }, []);
 
   const navLinks = [
-    { label: '홈', href: '#home' },
-    { label: '펀펀 복싱 소개', href: '#about' },
     { label: '프로그램', href: '#programs' },
-    { label: '이용 요금', href: '#pricing' },
     { label: '시설 안내', href: '#gallery' },
     { label: '오시는 길', href: '#location' },
   ];
